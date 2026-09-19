@@ -1,10 +1,12 @@
-Sync: +216 MetaMask, +404 ScamSniffer, -42 OpenPhish, +0 PhishDestroy, +217 SEAL
+Sync: +1831 MetaMask, +113 ScamSniffer, +10 CryptoFirewall, +20 OpenPhish, +0 PhishDestroy, +1823 SEAL, +1 SPMedia_DetectedURLs
 
-Total domains: 686154
+Total domains: 688050
 
 Changes:
-- MetaMask: +216
-- ScamSniffer: +404
-- OpenPhish: -42
+- MetaMask: +1831
+- ScamSniffer: +113
+- CryptoFirewall: +10
+- OpenPhish: +20
 - PhishDestroy: +0
-- SEAL: +217
+- SEAL: +1823
+- SPMedia_DetectedURLs: +1
